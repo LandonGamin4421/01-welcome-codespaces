@@ -1,2 +1,2 @@
 # Welcome!
-A repo for practicing how to launch a GitHub Codespace.
+A repo for practicing how to launch a GitHub Codespace. I changed it a little
